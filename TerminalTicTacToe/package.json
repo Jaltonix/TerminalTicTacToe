@@ -1,0 +1,14 @@
+{
+  "name": "TerminalTicTacToe",
+  "version": "1.0.0",
+  "description": "Command Line Tic Tac Toe",
+  "main": "tictactoe.js",
+  "repository": "github.com/Jaltonix/TerminalTicTacToe",
+  "author": "Jaltonix",
+  "scripts": {
+    "start": "node tictactoe.js"
+  },
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
